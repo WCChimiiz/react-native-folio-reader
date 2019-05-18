@@ -1,7 +1,7 @@
 
 {
   "name": "wcchimiiz-react-native-folio-reader",
-  "version": "0.0.1",
+  "version": "0.0.2 - beta",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,17 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Wiwat Patanaprasitchai",
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WCChimiiz/react-native-app-tour.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WCChimiiz/react-native-app-tour/issues"
+  },
+  "homepage": "https://github.com/WCChimiiz/react-native-app-tour#readme"
 }
