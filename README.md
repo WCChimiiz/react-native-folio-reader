@@ -2,7 +2,7 @@
 # react-native-folio-reader by WCChimiiz
 
 
-| **Android: [FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android**             |
+| **Android: [FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android)**             |
 | ----------------- |
 
 
