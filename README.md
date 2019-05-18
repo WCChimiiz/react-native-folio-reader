@@ -3,7 +3,7 @@
 
 
 | **Android: [FolioReader/FolioReader-Android](https://github.com/FolioReader/FolioReader-Android**             |
-| ----------------- |                |
+| ----------------- |
 
 
 | **iOS: [FolioReader/FolioReaderKit](https://github.com/FolioReader/FolioReaderKit)**             |
